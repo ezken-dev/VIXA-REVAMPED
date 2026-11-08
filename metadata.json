@@ -1,0 +1,6 @@
+{
+  "name": "Vixa — Digital Agency & AI Architecture",
+  "description": "Vixa builds high-performance digital ecosystems. From immersive UI/UX web development to custom AI integrations, we scale your business with intelligent solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
